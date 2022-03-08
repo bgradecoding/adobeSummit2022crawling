@@ -1,0 +1,27 @@
+{
+  "name": "adobesummit2022crawling",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "crawling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/bgradecoding/adobeSummit2022crawling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgradecoding/adobeSummit2022crawling/issues"
+  },
+  "homepage": "https://github.com/bgradecoding/adobeSummit2022crawling#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "exceljs": "^4.3.0",
+    "puppeteer": "^13.5.0"
+  }
+}
